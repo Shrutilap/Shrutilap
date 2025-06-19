@@ -1,7 +1,7 @@
 ## Hey, I'm Shruti 👋
 
 ### Computer Engineering Student | AI & ML Enthusiast
-🚀 Passionate about leveraging technology to build real-world solutions that make an impact. 
+🚀 Exploring the world of Generative AI and machine learning. 
 
 📫 Let's Connect
 
